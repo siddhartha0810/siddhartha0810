@@ -2,12 +2,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=820&lines=GTM+Intelligence+Engineer;AI-Powered+B2B+Outbound+Infrastructure;280K-Scale+CRM+Migration+%26+Enrichment+Pipeline;Apollo+%C2%B7+Clay+%C2%B7+HubSpot+%C2%B7+ZoomInfo+%C2%B7+ZeroBounce;Python+%C2%B7+PostgreSQL+%C2%B7+Power+BI+%C2%B7+FastAPI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=860&lines=GTM+Intelligence+Engineer;I+build+what+Bombora+charges+%24150K%2Fyr+for%3B;280K+contacts+enriched+%C2%B7+222K+validated+%C2%B7+zero+manual+work;Apollo+%C2%B7+Clay+%C2%B7+ZoomInfo+%C2%B7+HubSpot+%C2%B7+ZeroBounce;Python+%C2%B7+PostgreSQL+%C2%B7+FastAPI+%C2%B7+Power+BI)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/M.S.%20Information%20Systems-George%20Mason%20University%20'25-7c3aed?style=flat-square&logoColor=white" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Houston%2C%20TX-4f46e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍-Houston%2C%20TX-4f46e5?style=flat-square" />
 </p>
 
 <p>
@@ -30,15 +30,50 @@
 
 ## About Me
 
-> *Building AI-powered GTM infrastructure from zero — no team, no playbook, just a production system that ships.*
+> *Building AI-powered GTM infrastructure from zero — no team, no playbook, just production systems that ship.*
 
-I'm a **GTM Intelligence Engineer** with hands-on experience building AI-powered outbound and enrichment infrastructure from scratch. I design, ship, and operate production pipelines covering multi-source lead enrichment, custom email-pattern prediction, CRM migration, and deliverability validation — at **280K-record scale**.
+I'm a **GTM Intelligence Engineer** who designs, ships, and operates the data infrastructure that powers modern B2B revenue teams. My work spans multi-source lead enrichment, custom email-pattern prediction, CRM migration at scale, deliverability validation, intent signal detection, and LLM-powered automation — all built from scratch, in production, at **280K-record scale**.
 
-At **Inoapps Ltd**, I built and run a full B2B GTM data platform solo: identified bottlenecks by talking directly to sales reps, decided what to build, and shipped it end-to-end. That includes a multi-vendor enrichment pipeline routing across ZoomInfo, Apollo, Apify, and Clay; a custom email-pattern prediction engine; and a 280K-contact Salesforce → PostgreSQL → HubSpot migration that produced **~222K validated emails** and **~211K LinkedIn-enriched contacts** with zero manual intervention.
+At **Inoapps Ltd** I built a full GTM data platform solo with no prior system and no instructions: talked to sales reps to find bottlenecks, decided what to build, and shipped it end-to-end. At **Qualcomm** I eliminated manual GTM reporting cycles and replaced them with real-time Power BI dashboards. At **Intel** I automated operational pipelines that freed 4–5 hours of manual work per reporting cycle.
 
-I'm an active daily user of Claude, GPT-4o, Apollo, Clay, ZoomInfo, HubSpot, and Salesforce. My open-source project — the **GTM Intelligence Engine** — is a standalone intent detection and enrichment platform built publicly: 13-source signal scraping, confidence scoring, 7-stage enrichment pipeline, and automated HubSpot push. I thrive in zero-to-one environments with no playbook.
+I'm a daily practitioner of Claude, GPT-4o, Apollo, Clay, ZoomInfo, HubSpot, and Salesforce. I thrive in zero-to-one environments where there is no playbook. My open-source **GTM Intelligence Engine** is a live demonstration of that — intent detection, enrichment, validation, and CRM sync, built publicly.
 
-**Open To:** `GTM Engineer` &nbsp;·&nbsp; `RevOps Engineer` &nbsp;·&nbsp; `Sales Intelligence Engineer` &nbsp;·&nbsp; `Growth Engineer` &nbsp;·&nbsp; `Revenue Intelligence Lead`
+---
+
+## Open To
+
+<div align="center">
+
+| Role | Fit | What I Bring |
+|------|:---:|--------------|
+| **GTM Engineer** | ![Perfect](https://img.shields.io/badge/Perfect%20Fit-7c3aed?style=flat-square) | Built this infrastructure daily — enrichment pipelines, intent detection, CRM sync, vendor routing |
+| **RevOps Engineer** | ![Perfect](https://img.shields.io/badge/Perfect%20Fit-7c3aed?style=flat-square) | 280K CRM migration, dedup, reconciliation, ownership conflict resolution, single source of truth |
+| **Sales Intelligence Engineer** | ![Perfect](https://img.shields.io/badge/Perfect%20Fit-7c3aed?style=flat-square) | 13-source signal network, confidence scoring 0.40–0.90, buying phase classification at scale |
+| **Revenue Intelligence Lead** | ![Strong](https://img.shields.io/badge/Strong%20Fit-4f46e5?style=flat-square) | End-to-end platform ownership: signals → enrichment → validation → CRM → reporting |
+| **Growth Engineer** | ![Strong](https://img.shields.io/badge/Strong%20Fit-4f46e5?style=flat-square) | Full-stack Python + React + FastAPI + deep GTM motion and outbound sequence knowledge |
+| **AI/ML Engineer (GTM)** | ![Strong](https://img.shields.io/badge/Strong%20Fit-4f46e5?style=flat-square) | LLM agent workflows, Claude/GPT-4o/Gemini, AWS Bedrock, Copilot Studio, MCP integrations |
+
+</div>
+
+---
+
+## What I Build vs. What It Costs
+
+> I build bespoke GTM infrastructure that replaces — or outperforms — tools costing six figures annually, purpose-built for your specific vertical and data motion.
+
+<div align="center">
+
+| Enterprise Tool | Annual Market Cost | What I Build Instead |
+|:---------------:|:-----------------:|----------------------|
+| Bombora / 6sense (intent data) | $80K – $150K / yr | Vertically-specialized 13-source signal engine with confidence scoring |
+| ZoomInfo Advanced | $25K – $50K / yr | Multi-vendor routing: ZoomInfo + Apollo + Clay + Apify via live coverage confidence |
+| Clearbit Enrichment | $15K – $30K / yr | Custom email-pattern prediction engine — covers contacts no vendor has on file |
+| Ringlead / LeanData (dedup) | $15K – $30K / yr | Cross-vendor deduplication, reconciliation, and ownership conflict resolution |
+| Fivetran / Stitch (ETL & migration) | $10K – $25K / yr | 280K-record CRM migration pipeline, checkpoint/resume, zero manual intervention |
+| Outreach / Salesloft (review workflow) | $15K – $30K / yr | Custom review queue, audit log, and control panel UI for non-technical teams |
+| **Enterprise total** | **$160K – $315K / yr** | **Built solo. Production-grade. Ships in weeks, not quarters.** |
+
+</div>
 
 ---
 
@@ -98,20 +133,24 @@ I'm an active daily user of Claude, GPT-4o, Apollo, Clay, ZoomInfo, HubSpot, and
 
 ---
 
-## GTM Intelligence & AI Expertise
+## GTM Tool Proficiency Matrix
 
-| Domain | Proficiency | Details |
-|--------|:-----------:|---------|
-| **Multi-Source Lead Enrichment** | `Expert` | Vendor routing across ZoomInfo, Apollo, Apify, and Clay based on live coverage confidence with checkpoint/resume logic |
-| **Email Pattern Prediction** | `Expert` | Custom engine with domain resolution and override logic — generates verified email hypotheses for contacts no vendor has on file |
-| **Email Deliverability Validation** | `Expert` | Multi-stage pipelines with ZeroBounce and NeverBounce — 222K validated emails from 280K input at Inoapps |
-| **CRM Migration at Scale** | `Expert` | End-to-end 280K-contact Salesforce → PostgreSQL → HubSpot migration with zero manual intervention |
-| **Intent Signal Detection** | `Advanced` | 13-source Oracle intent signal network — job boards, news APIs, Oracle ecosystem, partner case studies |
-| **ICP Targeting & Segmentation** | `Expert` | Clay + Apollo + ZoomInfo workflows filtering by job title, firmographics, and buying signals for outbound sequences |
-| **LLM Agent Workflows** | `Advanced` | Claude, GPT-4o, Gemini for prospect research and content generation; Copilot Studio + MCP integrations |
-| **Deduplication & Reconciliation** | `Expert` | Cross-vendor dedup, ownership conflict resolution, single source of truth across CRM and enrichment vendors |
-| **Reporting & Analytics Pipelines** | `Advanced` | Power BI (DAX/Power Query), AWS Athena/S3, KPI frameworks — replaced manual reporting at Qualcomm and Intel |
-| **RevOps Data Modeling** | `Advanced` | PostgreSQL schema design: enrichment_cache TTL, domain_knowledge, email_patterns, scan state, audit logs |
+| Tool / Platform | Proficiency | Scale Achieved | Primary Use Case |
+|-----------------|:-----------:|:--------------:|------------------|
+| **Apollo.io** | ![Expert](https://img.shields.io/badge/Expert-7c3aed?style=flat-square) | 280K contacts | Bulk enrichment, sequences, ICP search/filter, decision-maker targeting |
+| **Clay** | ![Expert](https://img.shields.io/badge/Expert-7c3aed?style=flat-square) | Production | Account research automation, firmographic + job title filtering, AI enrichment |
+| **ZoomInfo** | ![Expert](https://img.shields.io/badge/Expert-7c3aed?style=flat-square) | 280K contacts | Contact intelligence, coverage routing, intent signal layer |
+| **HubSpot CRM** | ![Expert](https://img.shields.io/badge/Expert-7c3aed?style=flat-square) | 280K sync | CRM integration, pipeline management, sequence automation, review queue push |
+| **Salesforce** | ![Expert](https://img.shields.io/badge/Expert-7c3aed?style=flat-square) | 280K export | Source CRM migration, master data management, read-only contacts layer |
+| **ZeroBounce** | ![Expert](https://img.shields.io/badge/Expert-7c3aed?style=flat-square) | 222K emails | Multi-stage deliverability validation, catch-all scoring, credit optimization |
+| **NeverBounce** | ![Advanced](https://img.shields.io/badge/Advanced-4f46e5?style=flat-square) | 280K records | Secondary email validation pipeline, cross-vendor reconciliation |
+| **Apify** | ![Advanced](https://img.shields.io/badge/Advanced-4f46e5?style=flat-square) | Production | Custom actor deployment, web scraping orchestration, signal extraction |
+| **Python / Pandas** | ![Expert](https://img.shields.io/badge/Expert-7c3aed?style=flat-square) | 280K pipelines | Data pipelines, enrichment logic, checkpoint/resume, fuzzy dedup |
+| **PostgreSQL** | ![Expert](https://img.shields.io/badge/Expert-7c3aed?style=flat-square) | 10-table schema | Data modeling, enrichment cache, TTL management, CRM migration layer |
+| **Power BI** | ![Advanced](https://img.shields.io/badge/Advanced-4f46e5?style=flat-square) | Real-time | GTM dashboards, DAX modeling, KPI frameworks, automated refresh |
+| **Claude / GPT-4o** | ![Advanced](https://img.shields.io/badge/Advanced-4f46e5?style=flat-square) | Daily use | LLM workflows, prompt engineering, entity extraction, research automation |
+| **AWS Bedrock** | ![Intermediate](https://img.shields.io/badge/Intermediate-6d28d9?style=flat-square) | Production | AI infrastructure, model integration, cloud-based inference |
+| **FastAPI / React** | ![Advanced](https://img.shields.io/badge/Advanced-4f46e5?style=flat-square) | Full-stack | Control panels, review queues, engine dashboards, JWT auth |
 
 ---
 
@@ -129,15 +168,33 @@ I'm an active daily user of Claude, GPT-4o, Apollo, Clay, ZoomInfo, HubSpot, and
 | **Stack** | Python 3.13 · FastAPI · PostgreSQL 15 · React 18 · TypeScript · Vite · JWT Auth |
 | **Scale** | 13 signal sources · 10 parallel enrichment workers · 10 database tables · 30-day result cache |
 | **Intelligence** | Confidence scoring 0.40–0.90 · Local LLM entity extraction · 5 buying-phase classifiers · staffing firm filter |
-| **Integrations** | Apollo.io (contact discovery) · ZeroBounce (email validation) · HubSpot (CRM sync) · Ollama (local LLM) |
-| **Security** | JWT authentication · 4-tier RBAC (owner/admin/viewer/recruitment) · fully parameterized SQL |
+| **Integrations** | Apollo.io · ZeroBounce · HubSpot CRM · Ollama (local LLM) |
+| **Security** | JWT authentication · 4-tier RBAC (owner/admin/viewer/recruitment) · parameterized SQL throughout |
 | **Architecture** | Signal Detection → PostgreSQL ← 7-Stage Enrichment → FastAPI → React Dashboard → HubSpot |
-| **Impact** | Eliminates manual top-of-funnel prospecting for Oracle/JDE enterprise sales cycles |
+| **Impact** | Replaces $80K–$150K/yr intent platforms for Oracle/JDE vertical with zero recurring license cost |
 | **Repository** | [github.com/siddhartha0810/gtm-intelligence-engine](https://github.com/siddhartha0810/gtm-intelligence-engine) |
 
-**System Design:** Three integrated layers power the platform. The **Oracle Intent Engine** monitors 13 specialized sources — Indeed, ZipRecruiter, Adzuna, TotalJobs, CWJobs, Oracle.com, Oracle Community, Oracle Events, NewsAPI, Bing News, SI partner case studies, company pages, and home builder directories — assigning confidence scores from 0.40 to 0.90. The **Lead Enrichment Engine** runs a 7-stage pipeline (clean → domain resolve → enrich → validate → email predict → re-validate → score) with multi-layer lookup that protects API budgets while maximizing coverage. The **React Dashboard** gives sales teams full control: Engine Control, Review Queue, HubSpot Sync, Reporting, and role-scoped JWT auth — built entirely by one engineer, shipped end-to-end.
+**What makes it different:** Generic intent platforms (Bombora, 6sense) sell broad B2B data. This platform is surgically vertical — it monitors 13 Oracle/JDE-specific sources that broad tools don't cover, detects buying phases (hiring · implementing · evaluating · upgrading · supporting) with confidence scoring, and pipes verified contacts directly into HubSpot. Built by one engineer. Costs API credits, not $150K/yr.
 
 </details>
+
+---
+
+## What I Ship in 30 Days
+
+> Not a sprint plan. A commitment. This is what happens when I join a GTM team.
+
+<div align="center">
+
+| Timeline | Deliverable | What You Get |
+|:--------:|-------------|--------------|
+| **Days 1 – 3** | CRM audit · ICP definition · source-to-target mapping | Complete picture of data quality gaps, coverage holes, and priority segments |
+| **Days 4 – 10** | Multi-vendor enrichment pipeline (ZoomInfo + Apollo + Clay + Apify) with checkpoint/resume | First enrichment run live — vendor routing by coverage confidence, API spend controlled |
+| **Days 11 – 17** | ZeroBounce + NeverBounce validation + email-pattern prediction engine | 80%+ valid email coverage — including contacts no vendor has on file |
+| **Days 18 – 24** | Dedup + reconciliation engine + single source of truth architecture | Clean CRM data: ownership conflicts resolved, duplicates eliminated, master record defined |
+| **Days 25 – 30** | Review queue UI + HubSpot sync + ops team handoff | Sales approves prospects in a UI, pipeline syncs automatically, outbound sequences launch |
+
+</div>
 
 ---
 
@@ -169,7 +226,7 @@ Embedded with GTM and engineering teams to automate reporting pipelines, elimina
 - Automated KPI validation, reconciliation, and exception tracking in Python — eliminated recurring manual checks every reporting cycle
 - Defined source-to-target mappings and validation logic for reporting pipelines, reducing data discrepancies by 25% across teams
 - Replaced static weekly reporting with near real-time Power BI dashboards, giving GTM and marketing teams live pipeline and performance visibility
-- Used Claude to draft requirements, generate documentation, and summarise stakeholder input — tightened turnaround on cross-functional deliverables
+- Used Claude to draft requirements, generate documentation, and summarise stakeholder input
 
 `Python` `SQL` `Power BI` `DAX` `Power Query` `AWS Athena` `AWS S3` `Claude` `KPI Frameworks` `Data Pipelines`
 
@@ -188,19 +245,35 @@ Automated operational data pipelines and built monitoring systems that gave non-
 
 ---
 
+## GTM Engineering Philosophy
+
+> The six principles I apply to every pipeline, platform, and system I build.
+
+| # | Principle | Why It Matters |
+|:-:|-----------|----------------|
+| **1** | **Cache before you call** | Never hit a paid API when you already have the answer. Every cache hit is API credit saved and latency cut. |
+| **2** | **Validate before you sequence** | A bad email destroys sender reputation. Deliverability is not optional — it's the foundation of all outbound. |
+| **3** | **Enrich the right people, not all people** | ICP precision beats volume every time. Garbage in, garbage sequences out. Cost per qualified contact matters. |
+| **4** | **Non-technical teams need control, not code** | A pipeline nobody can operate is a pipeline nobody trusts. Always build the review UI and the audit log. |
+| **5** | **Vendor coverage is always incomplete** | The contacts no vendor has are often the highest-signal accounts. Build the prediction layer, don't skip them. |
+| **6** | **Zero-to-one before zero-to-scale** | Ship a working system first. Prove the motion. Optimize throughput and cost once the signal is confirmed. |
+
+---
+
 ## Impact & Scale
 
 <div align="center">
 
 | Metric | Achievement |
 |:------:|-------------|
-| **280,000** | Contacts migrated end-to-end: Salesforce → PostgreSQL → HubSpot, zero manual intervention |
-| **~222,000** | Validated emails produced from 280K input via ZeroBounce + NeverBounce multi-stage pipeline |
+| **280,000** | Contacts processed end-to-end: Salesforce → PostgreSQL → HubSpot, zero manual intervention |
+| **~222,000** | Validated emails from 280K input via ZeroBounce + NeverBounce multi-stage pipeline |
 | **~211,000** | Contacts enriched with LinkedIn URLs from the same 280K dataset |
+| **$160K – $315K** | Equivalent enterprise tool cost replaced by custom-built GTM infrastructure |
 | **25%** | Data discrepancy reduction across GTM and marketing reporting pipelines at Qualcomm |
 | **20%** | Metric discrepancy resolution between engineering and business systems at Intel |
 | **4–5 hrs/week** | Manual data-pull time eliminated per reporting cycle at Intel |
-| **13** | Signal sources monitored in real-time by the GTM Intelligence Engine |
+| **13** | Real-time signal sources in the GTM Intelligence Engine |
 | **4** | Enrichment vendors orchestrated in live routing logic: ZoomInfo · Apollo · Apify · Clay |
 
 </div>
@@ -214,11 +287,11 @@ Automated operational data pipelines and built monitoring systems that gave non-
 | Recognition | Details |
 |:-----------:|---------|
 | **Patent Inventor** | A Voice Alert Agricultural Monitoring System · NIT Calicut · IN 202441092935 |
-| **280K CRM Migration** | Solo end-to-end Salesforce → PostgreSQL → HubSpot at production scale — zero manual intervention |
+| **280K CRM Migration** | Solo Salesforce → PostgreSQL → HubSpot at production scale — zero manual intervention |
 | **Custom Email Prediction Engine** | Domain-level email format inference for contacts no vendor has on file — built from scratch |
 | **Multi-Vendor Enrichment Router** | Live coverage-confidence routing across ZoomInfo, Apollo, Apify, Clay — minimises cost, maximises yield |
 | **Control Panel for Non-Technical Teams** | Built queue, audit log, and UI so sales and ops can approve pipeline outputs without touching code |
-| **13-Source Intent Signal Network** | Real-time Oracle ERP buying intent detection across job boards, news APIs, Oracle ecosystem, partner sites |
+| **13-Source Intent Signal Network** | Real-time Oracle ERP buying intent across job boards, news APIs, Oracle ecosystem, partner sites |
 
 </div>
 
@@ -326,18 +399,19 @@ current_focus:
     - "AWS infrastructure for GTM platform multi-tenant deployment and scaling"
 
   building:
-    - "GTM Intelligence Engine — intent detection, enrichment, validation, HubSpot push"
-    - "Multi-vendor routing with live coverage confidence and API cost optimization"
+    - "GTM Intelligence Engine v2 — multi-CRM support, real-time signal streaming"
     - "AI-powered outreach personalization using enriched company and contact context"
+    - "Predictive pipeline scoring with gradient boosting on GTM signal data"
 
   exploring:
     - "MCP integrations for HubSpot-JIRA and cross-system CRM automation"
     - "Multimodal intent signals: G2 reviews, LinkedIn engagement, Bombora-style co-op data"
-    - "Predictive pipeline scoring using gradient boosting on enriched GTM signal data"
+    - "Agentic enrichment: LLM agents that research and qualify accounts autonomously"
 
   open_to:
     - "GTM Engineer · RevOps Engineer · Sales Intelligence Engineer"
     - "Growth Engineer · Revenue Intelligence Lead · Sales Technology Architect"
+    - "AI/ML Engineer (Sales & Marketing Automation)"
 ```
 
 ---
