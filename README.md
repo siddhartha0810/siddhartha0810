@@ -57,22 +57,10 @@ I'm a daily practitioner of Claude, GPT-4o, Apollo, Clay, ZoomInfo, HubSpot, and
 
 ---
 
-## What I Build vs. What It Costs
-
-> I build bespoke GTM infrastructure that replaces — or outperforms — tools costing six figures annually, purpose-built for your specific vertical and data motion.
+## GTM Intelligence Dashboard
 
 <div align="center">
-
-| Enterprise Tool | Annual Market Cost | What I Build Instead |
-|:---------------:|:-----------------:|----------------------|
-| Bombora / 6sense (intent data) | $80K – $150K / yr | Vertically-specialized 13-source signal engine with confidence scoring |
-| ZoomInfo Advanced | $25K – $50K / yr | Multi-vendor routing: ZoomInfo + Apollo + Clay + Apify via live coverage confidence |
-| Clearbit Enrichment | $15K – $30K / yr | Custom email-pattern prediction engine — covers contacts no vendor has on file |
-| Ringlead / LeanData (dedup) | $15K – $30K / yr | Cross-vendor deduplication, reconciliation, and ownership conflict resolution |
-| Fivetran / Stitch (ETL & migration) | $10K – $25K / yr | 280K-record CRM migration pipeline, checkpoint/resume, zero manual intervention |
-| Outreach / Salesloft (review workflow) | $15K – $30K / yr | Custom review queue, audit log, and control panel UI for non-technical teams |
-| **Enterprise total** | **$160K – $315K / yr** | **Built solo. Production-grade. Ships in weeks, not quarters.** |
-
+<img src="./assets/gtm-dashboard.svg" width="100%" alt="GTM Intelligence Dashboard — 280K contacts · 222K validated emails · 211K LinkedIn URLs · 13 signal sources" />
 </div>
 
 ---
