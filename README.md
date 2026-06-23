@@ -291,40 +291,27 @@ Automated operational data pipelines and built monitoring systems that gave non-
 > The system I built and operate at Inoapps — from raw Salesforce export to verified HubSpot contacts at 280K scale.
 
 ```mermaid
-flowchart TD
-    A[("☁️ Salesforce Export\n280,000 contacts")] --> B
+flowchart LR
+    A[(Salesforce\n280K contacts)] --> B
 
-    subgraph PIPELINE["7-Stage Lead Enrichment Pipeline"]
-        direction TB
-        B["① Clean & Deduplicate"] --> C
-        C["② Domain Resolution\n10 parallel workers"] --> D
-        D{"③ Cache Check\nenrichment_cache"} -->|"cache hit\n~40% of records"| G
-        D -->|"cache miss"| E
-        E["④ Multi-Vendor Enrichment\nZoomInfo · Apollo · Clay · Apify\nrouted by live coverage confidence"] --> F
-        F["⑤ ZeroBounce + NeverBounce\nMulti-stage deliverability validation"] --> G
-        G["⑥ Email Pattern Prediction\nDomain-level inference engine\nfor contacts no vendor has on file"] --> H
-        H["⑦ Score & Route"]
+    subgraph PIPE [7-Stage Enrichment Pipeline]
+        B[1 · Clean] --> C[2 · Domain Resolve\n10 parallel workers]
+        C --> D{3 · Cache Check}
+        D -->|cache hit| H
+        D -->|cache miss| E[4 · Multi-Vendor Enrich\nZoomInfo / Apollo / Clay / Apify]
+        E --> F[5 · ZeroBounce\nNeverBounce Validate]
+        F --> G[6 · Email Pattern Predict\ndomain inference engine]
+        G --> H[7 · Score and Route]
     end
 
-    H --> I
-    H --> J
-
-    subgraph OUTPUT["Output"]
-        I["✅ ~222K Validated Emails"]
-        J["✅ ~211K LinkedIn URLs Enriched"]
+    subgraph INTENT [GTM Intent Engine]
+        M[13 Signal Sources] --> N[Confidence Score\n0.40 to 0.90]
+        N --> O[Buying Phase\nhiring / implementing / upgrading]
     end
 
-    I --> K[["👁️ Review Queue\nAudit log · Control panel UI\nApproval by non-technical ops teams"]]
-    J --> K
-    K --> L[["🚀 HubSpot CRM Push\nZero manual intervention"]]
-
-    subgraph INTENT["GTM Intent Engine — Running in Parallel"]
-        direction LR
-        M[["13 Signal Sources\nIndeed · ZipRecruiter · Oracle.com\nNewsAPI · Partner Sites · Forums"]] --> N["Confidence Score\n0.40 – 0.90"]
-        N --> O["Buying Phase Classifier\nhiring · implementing · upgrading\nevaluating · supporting"]
-    end
-
-    O --> K
+    H --> R[Review Queue\nControl Panel UI]
+    O --> R
+    R --> OUT[HubSpot CRM\n222K emails · 211K LinkedIn]
 ```
 
 ---
