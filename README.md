@@ -286,17 +286,46 @@ Automated operational data pipelines and built monitoring systems that gave non-
 
 ---
 
-## Contribution Snake
+## GTM Pipeline Architecture
 
-<div align="center">
+> The system I built and operate at Inoapps — from raw Salesforce export to verified HubSpot contacts at 280K scale.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddhartha0810/siddhartha0810/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddhartha0810/siddhartha0810/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/siddhartha0810/siddhartha0810/output/github-snake.svg" />
-</picture>
+```mermaid
+flowchart TD
+    A[("☁️ Salesforce Export\n280,000 contacts")] --> B
 
-</div>
+    subgraph PIPELINE["7-Stage Lead Enrichment Pipeline"]
+        direction TB
+        B["① Clean & Deduplicate"] --> C
+        C["② Domain Resolution\n10 parallel workers"] --> D
+        D{"③ Cache Check\nenrichment_cache"} -->|"cache hit\n~40% of records"| G
+        D -->|"cache miss"| E
+        E["④ Multi-Vendor Enrichment\nZoomInfo · Apollo · Clay · Apify\nrouted by live coverage confidence"] --> F
+        F["⑤ ZeroBounce + NeverBounce\nMulti-stage deliverability validation"] --> G
+        G["⑥ Email Pattern Prediction\nDomain-level inference engine\nfor contacts no vendor has on file"] --> H
+        H["⑦ Score & Route"]
+    end
+
+    H --> I
+    H --> J
+
+    subgraph OUTPUT["Output"]
+        I["✅ ~222K Validated Emails"]
+        J["✅ ~211K LinkedIn URLs Enriched"]
+    end
+
+    I --> K[["👁️ Review Queue\nAudit log · Control panel UI\nApproval by non-technical ops teams"]]
+    J --> K
+    K --> L[["🚀 HubSpot CRM Push\nZero manual intervention"]]
+
+    subgraph INTENT["GTM Intent Engine — Running in Parallel"]
+        direction LR
+        M[["13 Signal Sources\nIndeed · ZipRecruiter · Oracle.com\nNewsAPI · Partner Sites · Forums"]] --> N["Confidence Score\n0.40 – 0.90"]
+        N --> O["Buying Phase Classifier\nhiring · implementing · upgrading\nevaluating · supporting"]
+    end
+
+    O --> K
+```
 
 ---
 
