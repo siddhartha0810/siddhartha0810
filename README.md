@@ -1,21 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Siddhartha%20Kothi&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=GTM%20Intelligence%20Engineer%20%7C%20RevOps%20Architect%20%7C%20AI%20Pipeline%20Builder&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Siddhartha%20Kothi&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=GTM%20Intelligence%20Engineer%20%7C%20AI-Powered%20Outbound%20Infrastructure%20%7C%20280K-Scale%20Pipeline%20Builder&descAlignY=58&descSize=15" width="100%" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=800&lines=GTM+Intelligence+Engineer;RevOps+%26+Sales+Tech+Architect;AI-Powered+B2B+Pipeline+Builder;Oracle+%7C+HubSpot+%7C+Apollo.io+%7C+FastAPI;Python+%C2%B7+TypeScript+%C2%B7+PostgreSQL+%C2%B7+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=820&lines=GTM+Intelligence+Engineer;AI-Powered+B2B+Outbound+Infrastructure;280K-Scale+CRM+Migration+%26+Enrichment+Pipeline;Apollo+%C2%B7+Clay+%C2%B7+HubSpot+%C2%B7+ZoomInfo+%C2%B7+ZeroBounce;Python+%C2%B7+PostgreSQL+%C2%B7+Power+BI+%C2%B7+FastAPI)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-7c3aed?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/M.S.%20Information%20Systems-George%20Mason%20University%20'25-7c3aed?style=flat-square&logoColor=white" />
   &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%93%8D-India-4f46e5?style=flat-square" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D-Houston%2C%20TX-4f46e5?style=flat-square" />
 </p>
 
 <p>
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-View%20Now-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/siddhartha-k/"><img src="https://img.shields.io/badge/LinkedIn-siddhartha--k-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  &nbsp;
-  <a href="mailto:siddharthakothi@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sidharthakothi@gmail.com"><img src="https://img.shields.io/badge/Gmail-sidharthakothi-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
   <a href="https://github.com/siddhartha0810"><img src="https://img.shields.io/badge/GitHub-siddhartha0810-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
@@ -24,8 +22,6 @@
   <img src="https://komarev.com/ghpvc/?username=siddhartha0810&style=flat-square&color=7c3aed&label=Profile+Views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/siddhartha0810?style=flat-square&color=4f46e5&label=Followers&logo=github" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/siddhartha0810?style=flat-square&affiliations=OWNER&color=6d28d9&label=Total+Stars" />
 </p>
 
 </div>
@@ -34,15 +30,15 @@
 
 ## About Me
 
-> *Building the intelligence infrastructure that powers enterprise go-to-market — where AI meets revenue operations engineering.*
+> *Building AI-powered GTM infrastructure from zero — no team, no playbook, just a production system that ships.*
 
-I'm a **GTM Intelligence Engineer** who architects the technical systems that drive modern B2B sales motions. My work lives at the intersection of **sales intelligence, AI/ML, and revenue operations** — turning raw market signals into qualified pipeline through automated, production-grade platforms.
+I'm a **GTM Intelligence Engineer** with hands-on experience building AI-powered outbound and enrichment infrastructure from scratch. I design, ship, and operate production pipelines covering multi-source lead enrichment, custom email-pattern prediction, CRM migration, and deliverability validation — at **280K-record scale**.
 
-My flagship system, the **GTM Intelligence Engine**, monitors 13+ live data sources for Oracle/JDE buying intent, enriches leads through a 7-stage contact validation pipeline integrating Apollo.io and ZeroBounce, and syncs verified prospects directly into HubSpot CRM — eliminating weeks of manual prospecting per quarter for enterprise sales teams.
+At **Inoapps Ltd**, I built and run a full B2B GTM data platform solo: identified bottlenecks by talking directly to sales reps, decided what to build, and shipped it end-to-end. That includes a multi-vendor enrichment pipeline routing across ZoomInfo, Apollo, Apify, and Clay; a custom email-pattern prediction engine; and a 280K-contact Salesforce → PostgreSQL → HubSpot migration that produced **~222K validated emails** and **~211K LinkedIn-enriched contacts** with zero manual intervention.
 
-I don't just configure sales tools. I **build them** — from the scraping layer and confidence scoring engine to the React dashboard and role-based CRM sync workflow. I bridge the gap between go-to-market strategy and the engineering required to execute it at scale. Where platforms like Bombora or 6sense charge $80k–$150k/year for generic intent data, I build vertically-specialized intelligence systems that outperform them for targeted ERP and enterprise software markets.
+I'm an active daily user of Claude, GPT-4o, Apollo, Clay, ZoomInfo, HubSpot, and Salesforce. My open-source project — the **GTM Intelligence Engine** — is a standalone intent detection and enrichment platform built publicly: 13-source signal scraping, confidence scoring, 7-stage enrichment pipeline, and automated HubSpot push. I thrive in zero-to-one environments with no playbook.
 
-**Open To:** `GTM Engineer` &nbsp;·&nbsp; `RevOps Engineer` &nbsp;·&nbsp; `Sales Technology Lead` &nbsp;·&nbsp; `Growth Engineer` &nbsp;·&nbsp; `Revenue Intelligence` &nbsp;·&nbsp; `AI/ML Engineer (GTM)`
+**Open To:** `GTM Engineer` &nbsp;·&nbsp; `RevOps Engineer` &nbsp;·&nbsp; `Sales Intelligence Engineer` &nbsp;·&nbsp; `Growth Engineer` &nbsp;·&nbsp; `Revenue Intelligence Lead`
 
 ---
 
@@ -54,7 +50,7 @@ I don't just configure sales tools. I **build them** — from the scraping layer
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,bash&theme=dark" />
 </p>
 
-**Frontend**
+**Frontend & Dashboards**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,html,css&theme=dark" />
@@ -63,7 +59,7 @@ I don't just configure sales tools. I **build them** — from the scraping layer
 **Backend & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,sqlite&theme=dark" />
 </p>
 
 **Cloud, DevOps & Tooling**
@@ -72,20 +68,32 @@ I don't just configure sales tools. I **build them** — from the scraping layer
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&theme=dark" />
 </p>
 
-**GTM & Sales Intelligence Stack**
+**GTM, Enrichment & AI Stack**
 
 <p>
-  <img src="https://img.shields.io/badge/Apollo.io-Contact%20Intelligence-FF6B35?style=flat-square&logo=apollographql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apollo.io-Enrichment%20%26%20Sequences-FF6B35?style=flat-square&logo=apollographql&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Clay-Account%20Research%20%26%20Automation-6d28d9?style=flat-square&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/ZoomInfo-Contact%20Intelligence-0052CC?style=flat-square&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Apify-Web%20Scraping-4f46e5?style=flat-square&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/HubSpot-CRM%20Integration-FF7A59?style=flat-square&logo=hubspot&logoColor=white" />
   &nbsp;
+  <img src="https://img.shields.io/badge/Salesforce-CRM%20%26%20Migration-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  &nbsp;
   <img src="https://img.shields.io/badge/ZeroBounce-Email%20Validation-7c3aed?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Salesforce-Data%20Master-00A1E0?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/NeverBounce-Deliverability-4f46e5?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20(Anthropic)-LLM%20Agent%20Workflows-000000?style=flat-square&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Oracle%20JDE-ERP%20Intelligence-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/GPT--4o-Prospect%20Research-412991?style=flat-square&logo=openai&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-AI%20Infrastructure-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Power%20BI-DAX%20%26%20Dashboards-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
 </p>
 
 ---
@@ -94,16 +102,16 @@ I don't just configure sales tools. I **build them** — from the scraping layer
 
 | Domain | Proficiency | Details |
 |--------|:-----------:|---------|
-| **Intent Signal Detection** | `Expert` | 13-source signal network spanning job boards, Oracle ecosystem, news APIs, partner case studies, community forums |
-| **Buying Phase Classification** | `Expert` | Detects: hiring · implementing · evaluating · upgrading · supporting across JDE, Fusion, HCM, SCM, EPM, OCI |
-| **Contact Enrichment Pipeline** | `Expert` | 7-stage: clean → domain resolve → enrich → validate → predict → re-validate → score |
-| **Email Pattern Prediction** | `Advanced` | Domain-level email format inference engine — reduces Apollo API spend by 40%+ |
-| **LLM Integration** | `Advanced` | Ollama local model for entity extraction and company classification — zero inference cost |
-| **Confidence Scoring** | `Expert` | Multi-signal scoring (0.40–0.90) with staffing agency filter and product-specific signal boosting |
-| **CRM Automation** | `Advanced` | HubSpot private app integration with review queue → approval workflow → CRM push pipeline |
-| **RevOps Data Modeling** | `Advanced` | PostgreSQL schema: enrichment_cache TTL, domain_knowledge, email_patterns, scan state management |
-| **Parallel Processing** | `Advanced` | 10-worker concurrent domain resolution and Apollo bulk enrichment for high-throughput pipelines |
-| **Cost Optimization** | `Expert` | Multi-layer lookup (cache → Salesforce master → Apollo) minimizes paid API consumption |
+| **Multi-Source Lead Enrichment** | `Expert` | Vendor routing across ZoomInfo, Apollo, Apify, and Clay based on live coverage confidence with checkpoint/resume logic |
+| **Email Pattern Prediction** | `Expert` | Custom engine with domain resolution and override logic — generates verified email hypotheses for contacts no vendor has on file |
+| **Email Deliverability Validation** | `Expert` | Multi-stage pipelines with ZeroBounce and NeverBounce — 222K validated emails from 280K input at Inoapps |
+| **CRM Migration at Scale** | `Expert` | End-to-end 280K-contact Salesforce → PostgreSQL → HubSpot migration with zero manual intervention |
+| **Intent Signal Detection** | `Advanced` | 13-source Oracle intent signal network — job boards, news APIs, Oracle ecosystem, partner case studies |
+| **ICP Targeting & Segmentation** | `Expert` | Clay + Apollo + ZoomInfo workflows filtering by job title, firmographics, and buying signals for outbound sequences |
+| **LLM Agent Workflows** | `Advanced` | Claude, GPT-4o, Gemini for prospect research and content generation; Copilot Studio + MCP integrations |
+| **Deduplication & Reconciliation** | `Expert` | Cross-vendor dedup, ownership conflict resolution, single source of truth across CRM and enrichment vendors |
+| **Reporting & Analytics Pipelines** | `Advanced` | Power BI (DAX/Power Query), AWS Athena/S3, KPI frameworks — replaced manual reporting at Qualcomm and Intel |
+| **RevOps Data Modeling** | `Advanced` | PostgreSQL schema design: enrichment_cache TTL, domain_knowledge, email_patterns, scan state, audit logs |
 
 ---
 
@@ -119,17 +127,15 @@ I don't just configure sales tools. I **build them** — from the scraping layer
 | Attribute | Details |
 |-----------|---------|
 | **Stack** | Python 3.13 · FastAPI · PostgreSQL 15 · React 18 · TypeScript · Vite · JWT Auth |
-| **Scale** | 13 signal sources · 10 parallel workers · 10 database tables · 30-day enrichment cache |
-| **Intelligence** | Confidence scoring 0.40–0.90 · LLM entity extraction · 5 buying-phase classifiers · staffing firm filter |
-| **Integrations** | Apollo.io (contact discovery) · ZeroBounce (email validation) · HubSpot (CRM sync) · Ollama (LLM) |
+| **Scale** | 13 signal sources · 10 parallel enrichment workers · 10 database tables · 30-day result cache |
+| **Intelligence** | Confidence scoring 0.40–0.90 · Local LLM entity extraction · 5 buying-phase classifiers · staffing firm filter |
+| **Integrations** | Apollo.io (contact discovery) · ZeroBounce (email validation) · HubSpot (CRM sync) · Ollama (local LLM) |
 | **Security** | JWT authentication · 4-tier RBAC (owner/admin/viewer/recruitment) · fully parameterized SQL |
 | **Architecture** | Signal Detection → PostgreSQL ← 7-Stage Enrichment → FastAPI → React Dashboard → HubSpot |
 | **Impact** | Eliminates manual top-of-funnel prospecting for Oracle/JDE enterprise sales cycles |
 | **Repository** | [github.com/siddhartha0810/gtm-intelligence-engine](https://github.com/siddhartha0810/gtm-intelligence-engine) |
 
-**System Design:** Three integrated layers power the platform end-to-end. The **Oracle Intent Engine** scrapes 13 specialized sources — Indeed, ZipRecruiter, Adzuna, TotalJobs, CWJobs, Oracle.com, Oracle Community, Oracle Events, NewsAPI, Bing News, SI partner case studies, company pages, and home builder directories — assigning confidence scores from 0.40 to 0.90 based on signal strength and product specificity. The **Lead Enrichment Engine** runs contacts through a 7-stage pipeline with multi-layer lookup logic (enrichment_cache → contacts_master → Apollo bulk API) that protects API budgets while maximizing contact coverage, backed by an email pattern prediction engine that infers email formats from domain-level data. The **React Dashboard** gives sales teams full operational control: browse companies and signals, manage contacts, launch engine runs, review and approve prospects, sync to HubSpot, and monitor platform health — all within role-scoped JWT authentication.
-
-**GTM differentiation:** Unlike horizontal intent platforms (Bombora, 6sense) that charge $80k–$150k/year for generic B2B data, this platform is purpose-built for Oracle/JDE sales motions — detecting signal types that broad intent tools are architecturally incapable of identifying, at a fraction of the cost.
+**System Design:** Three integrated layers power the platform. The **Oracle Intent Engine** monitors 13 specialized sources — Indeed, ZipRecruiter, Adzuna, TotalJobs, CWJobs, Oracle.com, Oracle Community, Oracle Events, NewsAPI, Bing News, SI partner case studies, company pages, and home builder directories — assigning confidence scores from 0.40 to 0.90. The **Lead Enrichment Engine** runs a 7-stage pipeline (clean → domain resolve → enrich → validate → email predict → re-validate → score) with multi-layer lookup that protects API budgets while maximizing coverage. The **React Dashboard** gives sales teams full control: Engine Control, Review Queue, HubSpot Sync, Reporting, and role-scoped JWT auth — built entirely by one engineer, shipped end-to-end.
 
 </details>
 
@@ -137,21 +143,67 @@ I don't just configure sales tools. I **build them** — from the scraping layer
 
 ## Experience
 
-**GTM Intelligence Engineer — Platform Architect**
-*Independent · Full-Stack GTM Platform Build*
-*2024 – Present*
+**AI & Data Associate**
+*Inoapps Ltd · Houston, TX · Mar 2026 – Present*
 
-Designed and built a production-grade go-to-market intelligence platform entirely from first principles — spanning signal detection infrastructure, AI-powered enrichment, database architecture, REST API layer, and React front-end with CRM integration.
+Built and operate a full B2B GTM data platform from scratch — no team, no instructions, no prior system. Identified manual bottlenecks by talking directly to sales and business reps, decided what to build, and shipped it end-to-end.
 
-- Architected a 13-source Oracle buying intent signal network monitoring job boards, Oracle's official ecosystem properties, news APIs, and partner case study sites — with automated staffing agency filtering and product-specific signal classification
-- Built a 7-stage lead enrichment pipeline processing contacts through clean → domain resolve → Apollo enrich → ZeroBounce validate → email predict → re-validate → score, with checkpoint/resume capability for interrupted batch runs
-- Implemented a multi-layer contact lookup strategy (enrichment_cache → Salesforce master export → Apollo API) that reduces paid API spend by over 40% without sacrificing coverage
-- Integrated Ollama local LLM for company entity extraction and signal classification — delivering enterprise-grade AI capability with zero inference cost
-- Designed a PostgreSQL schema with TTL-based caching (30-day Apollo, 7-day ZeroBounce), domain knowledge tables, and email pattern frequency tracking that compounds value with each run
-- Delivered a React 18 + TypeScript dashboard featuring Engine Control, live log streaming, Review Queue with approval workflow, HubSpot Sync configuration, KPI Reporting, and role-based access control
-- End-to-end HubSpot CRM integration via private app token: only reviewed and approved contacts exit the platform, preventing CRM pollution
+- Designed and shipped a multi-source lead enrichment pipeline in Python with checkpoint/resume logic, orchestrating vendor routing across ZoomInfo, Apollo, Apify, and Clay based on live coverage confidence
+- Engineered a custom email-pattern prediction engine with domain resolution and override logic to generate verified email hypotheses for contacts no vendor has on file
+- Ran a 280,000-contact Salesforce → PostgreSQL → HubSpot migration end-to-end: multi-stage validation via ZeroBounce and NeverBounce produced ~222K validated emails and ~211K enriched with LinkedIn URLs, zero manual intervention
+- Architected deduplication and reconciliation logic across CRM and enrichment vendors to maintain a single source of truth, including ownership conflict and duplicate resolution
+- Developed internal review/control tooling (queue, audit log, control panel UI) so non-technical sales and ops teams could monitor and approve automated pipeline outputs without touching code
+- Deployed Clay alongside Apollo and ZoomInfo to automate account research workflows, filtering target accounts by job title and firmographics to build ICP-matched, segmented prospect lists
+- Evaluated Claude, GPT-4o, and Gemini for LLM-powered prospect research; explored Copilot Studio and MCP for HubSpot–JIRA integration
 
-`Python` `FastAPI` `PostgreSQL` `React` `TypeScript` `Apollo.io` `ZeroBounce` `HubSpot` `Ollama` `JWT` `Vite` `REST API` `Web Scraping` `NLP`
+`Python` `PostgreSQL` `Apollo.io` `ZoomInfo` `Clay` `Apify` `HubSpot` `Salesforce` `ZeroBounce` `NeverBounce` `FastAPI` `React` `LLM Workflows` `MCP`
+
+---
+
+**Business Analyst**
+*Qualcomm · USA · Jan 2024 – Feb 2026*
+
+Embedded with GTM and engineering teams to automate reporting pipelines, eliminate manual data work, and surface insights that drove outbound and marketing decisions.
+
+- Partnered with GTM and marketing stakeholders to identify reporting bottlenecks, built automation business cases using SQL/Python analysis, and got them prioritised into the engineering backlog
+- Automated KPI validation, reconciliation, and exception tracking in Python — eliminated recurring manual checks every reporting cycle
+- Defined source-to-target mappings and validation logic for reporting pipelines, reducing data discrepancies by 25% across teams
+- Replaced static weekly reporting with near real-time Power BI dashboards, giving GTM and marketing teams live pipeline and performance visibility
+- Used Claude to draft requirements, generate documentation, and summarise stakeholder input — tightened turnaround on cross-functional deliverables
+
+`Python` `SQL` `Power BI` `DAX` `Power Query` `AWS Athena` `AWS S3` `Claude` `KPI Frameworks` `Data Pipelines`
+
+---
+
+**IT Business Analyst**
+*Intel · India · Jan 2022 – Jun 2023*
+
+Automated operational data pipelines and built monitoring systems that gave non-technical stakeholders reliable, real-time visibility.
+
+- Developed source-to-target mappings and reconciliation logic, resolving discrepancies between engineering and business metrics by 20%
+- Implemented monitoring and alerting workflows that reduced mean time to detect anomalies before they hit downstream GTM processes
+- Automated recurring operational reporting and validation using Python and SQL, eliminating 4–5 hours of manual weekly data-pull time per cycle
+
+`Python` `SQL` `Data Pipelines` `Monitoring & Alerting` `Reconciliation Logic` `Operational Reporting`
+
+---
+
+## Impact & Scale
+
+<div align="center">
+
+| Metric | Achievement |
+|:------:|-------------|
+| **280,000** | Contacts migrated end-to-end: Salesforce → PostgreSQL → HubSpot, zero manual intervention |
+| **~222,000** | Validated emails produced from 280K input via ZeroBounce + NeverBounce multi-stage pipeline |
+| **~211,000** | Contacts enriched with LinkedIn URLs from the same 280K dataset |
+| **25%** | Data discrepancy reduction across GTM and marketing reporting pipelines at Qualcomm |
+| **20%** | Metric discrepancy resolution between engineering and business systems at Intel |
+| **4–5 hrs/week** | Manual data-pull time eliminated per reporting cycle at Intel |
+| **13** | Signal sources monitored in real-time by the GTM Intelligence Engine |
+| **4** | Enrichment vendors orchestrated in live routing logic: ZoomInfo · Apollo · Apify · Clay |
+
+</div>
 
 ---
 
@@ -161,14 +213,12 @@ Designed and built a production-grade go-to-market intelligence platform entirel
 
 | Recognition | Details |
 |:-----------:|---------|
-| **13-Source Intent Signal Network** | Real-time Oracle ERP buying intent detection spanning job boards, official Oracle ecosystem, news APIs, and partner case studies |
-| **7-Stage Enrichment Pipeline** | Production-grade contact validation with multi-source lookup, email prediction, and checkpoint/resume for enterprise-scale runs |
-| **40%+ API Cost Reduction** | Multi-layer lookup architecture — enrichment_cache first → Salesforce master → Apollo — minimizes paid API consumption per run |
-| **10-Worker Parallel Processing** | Concurrent domain resolution and Apollo bulk enrichment for high-throughput lead processing at scale |
-| **Zero-Cost LLM Integration** | Ollama local model deployment for entity extraction and classification — enterprise AI at zero inference billing |
-| **4-Tier Role-Based Access Control** | Owner · Admin · Viewer · Recruitment permission scopes across all dashboard modules and API endpoints |
-| **End-to-End CRM Sync with Review Gate** | Review queue → approval workflow → HubSpot push — only verified, human-reviewed contacts reach the CRM |
-| **10-Table Production Database Schema** | companies · signals · company_contacts · contacts_master · scan_runs · enrichment_cache · domain_knowledge · email_patterns · users + more |
+| **Patent Inventor** | A Voice Alert Agricultural Monitoring System · NIT Calicut · IN 202441092935 |
+| **280K CRM Migration** | Solo end-to-end Salesforce → PostgreSQL → HubSpot at production scale — zero manual intervention |
+| **Custom Email Prediction Engine** | Domain-level email format inference for contacts no vendor has on file — built from scratch |
+| **Multi-Vendor Enrichment Router** | Live coverage-confidence routing across ZoomInfo, Apollo, Apify, Clay — minimises cost, maximises yield |
+| **Control Panel for Non-Technical Teams** | Built queue, audit log, and UI so sales and ops can approve pipeline outputs without touching code |
+| **13-Source Intent Signal Network** | Real-time Oracle ERP buying intent detection across job boards, news APIs, Oracle ecosystem, partner sites |
 
 </div>
 
@@ -179,27 +229,25 @@ Designed and built a production-grade go-to-market intelligence platform entirel
 **AWS**
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Certified%20AI%20Practitioner%20AIF--C01-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-**Oracle**
+**Microsoft**
 
 <p>
-  <img src="https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst%20PL--300-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-**NPTEL**
+**IBM**
 
 <p>
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Python-0052CC?style=for-the-badge&logo=python&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NPTEL-Database%20Management%20Systems-0052CC?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM-Certified%20Data%20Analyst-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
-**Cisco**
+**Patent**
 
 <p>
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Patent%20Inventor-IN%20202441092935%20·%20NIT%20Calicut-7c3aed?style=for-the-badge&logoColor=white" />
 </p>
 
 ---
@@ -228,39 +276,11 @@ Designed and built a production-grade go-to-market intelligence platform entirel
 
 ---
 
-## GitHub Analytics
+## Most Used Languages
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddhartha0810&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=7c3aed&icon_color=4f46e5&hide_border=false" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha0810&layout=compact&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&langs_count=8&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=siddhartha0810&theme=tokyonight&border=7c3aed&ring=7c3aed&fire=4f46e5&currStreakLabel=6d28d9&hide_border=false" />
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=siddhartha0810&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=siddhartha0810&theme=tokyo-night&hide_border=true&area=true&color=7c3aed&line=4f46e5&point=6d28d9&area_color=7c3aed" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhartha0810&layout=compact&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&langs_count=8&hide_border=false" />
 
 </div>
 
@@ -285,24 +305,23 @@ Designed and built a production-grade go-to-market intelligence platform entirel
 ```yaml
 current_focus:
   learning:
-    - "Advanced LLM fine-tuning for sales intent classification"
-    - "RAG pipelines for B2B company research automation"
-    - "AWS infrastructure for GTM platform scaling and multi-tenant deployment"
+    - "LLM fine-tuning for sales intent classification and confidence scoring"
+    - "Vector databases (pgvector) for semantic prospect and signal matching"
+    - "AWS infrastructure for GTM platform multi-tenant deployment and scaling"
 
   building:
-    - "GTM Intelligence Engine v2 — multi-CRM support (Salesforce + Pipedrive)"
-    - "Real-time signal streaming with WebSocket event bus and live dashboard updates"
-    - "AI-powered outreach personalization layer using enriched company context"
+    - "GTM Intelligence Engine — intent detection, enrichment, validation, HubSpot push"
+    - "Multi-vendor routing with live coverage confidence and API cost optimization"
+    - "AI-powered outreach personalization using enriched company and contact context"
 
   exploring:
-    - "Vector databases (pgvector, Pinecone) for semantic company and signal matching"
+    - "MCP integrations for HubSpot-JIRA and cross-system CRM automation"
     - "Multimodal intent signals: G2 reviews, LinkedIn engagement, Bombora-style co-op data"
-    - "Predictive pipeline scoring with gradient boosting and feature engineering on GTM signals"
+    - "Predictive pipeline scoring using gradient boosting on enriched GTM signal data"
 
   open_to:
     - "GTM Engineer · RevOps Engineer · Sales Intelligence Engineer"
     - "Growth Engineer · Revenue Intelligence Lead · Sales Technology Architect"
-    - "AI/ML Engineer (Sales, Marketing, and Pipeline Automation)"
 ```
 
 ---
@@ -311,20 +330,16 @@ current_focus:
 
 <div align="center">
 
-<a href="mailto:siddharthakothi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-siddharthakothi%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:sidharthakothi@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sidharthakothi%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/siddhartha-k/">
+  <img src="https://img.shields.io/badge/LinkedIn-siddhartha--k-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/siddhartha0810">
   <img src="https://img.shields.io/badge/GitHub-siddhartha0810-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Now-6d28d9?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
